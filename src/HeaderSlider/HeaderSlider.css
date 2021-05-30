@@ -1,0 +1,16 @@
+
+.header {
+    background-image:  
+    url('../assets/Pharmacy-background.jpg');
+    height:630px;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.header_title{
+  font-size: 3.5rem;
+  font-weight: 700;
+  font-family: 'Karla', sans-serif;
+  color: var(--main-color) !important;
+}
+

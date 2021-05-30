@@ -1,0 +1,13 @@
+.blogImg {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border-radius: 12px;
+  }
+  
+  .blogPara {
+    width: 60%;
+    margin: auto;
+  }
+  
